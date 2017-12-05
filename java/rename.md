@@ -27,7 +27,7 @@
 		
 # 常用 build.gradle 配置
 
-	java 插件，可以使用提供的相关功能（tasks），如：编译源码、允许单元测试、打包 jar 文件等
+	// TODO java 插件，可以使用提供的相关功能（tasks），如：编译源码、允许单元测试、打包 jar 文件等
 	apply plugin: 'java'
 	
 	// TODO 在此处修改版本号
